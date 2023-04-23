@@ -4,7 +4,7 @@
 **Lokeshkumar911/Lokeshkumar911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I am [Shubham](https://www.linkedin.com/in/okesh-kumar-274b6165/), a Full Stack Software Engineer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp; passionate about developing production-ready applications with 2+ years of professional onsite as well as remote working experience. 🎯
+I am [Lokesh](https://www.linkedin.com/in/lokesh-kumar-274b6165/), a Full Stack Software Engineer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp; passionate about developing production-ready applications with 2+ years of professional onsite as well as remote working experience. 🎯
 
 I mostly work with Python, MVC Frameworks and Cloud based technologies. 🚀
 
@@ -65,6 +65,6 @@ I mostly work with Python, MVC Frameworks and Cloud based technologies. 🚀
 ### 📫 How to reach me?
 
  - Visit my [Website](https://www.dadidea.com) 🌐
- - Connect with me on [LinkedIn](https://www.linkedin.com/in/okesh-kumar-274b6165/) 👨🏻‍💻
+ - Connect with me on [LinkedIn](https://www.linkedin.com/in/lokesh-kumar-274b6165/) 👨🏻‍💻
  - Follow me on [Instagram](https://#/) ✨
  - Shoot Me an [Email](mailto:lkumar441@gmail.com) 💌
